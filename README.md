@@ -65,7 +65,7 @@ The app will automatically spin up a local development server and open the dashb
 
 * * *
 
-### 📊 Dashboard Walkthrough
+###  Dashboard Walkthrough
 
 1.  **Route Dispatch Parameters (Sidebar):** Select your shipping origin hub, destination hub, and primary network objective.
 2.  **Recommended Dispatch Routing Strategy:** View the optimal node sequence arrow map (e.g., `Birmingham, AL ➡️ Mobile, AL`).
